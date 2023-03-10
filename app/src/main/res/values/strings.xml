@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UserPostApp</string>
+    <string name="button_see_post">ver publicaciones</string>
+    <string name="search">Buscar usuario</string>
+    <string name="empty_list">¡Uy, Lista de usuario vacía!</string>
+    <string name="loading">Cargando...\nEspera un momento por favor</string>
+    <string name="error_something_went_wrong">¡Uy, algo salió mal!</string>
+    <string name="title_topbar_home">Lista de Usuarios</string>
+    <string name="title_topbar_post">Publicaciones por Usuario</string>
+</resources>
